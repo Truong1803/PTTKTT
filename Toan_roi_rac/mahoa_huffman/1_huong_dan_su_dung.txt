@@ -1,0 +1,9 @@
++ huffman_encode.cpp dùng để mã hóa văn bản
+biên dịch và chạy: 
+	g++ huffman_encode.cpp
+	a.out input.txt output.txt
++ huffman_decode.cpp dùng để giải mã văn bản
+biên dịch và chạy:
+	g++ huffman_decode.cpp
+	a.out input.txt output.txt
++ encode.txt và decode.txt là 2 file nén và giải nén.
